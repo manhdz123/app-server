@@ -18,5 +18,8 @@
     "express": "^4.16.4",
     "mongoose": "^5.4.19"
   },
-  "proxy": "localhost:5000"
+  "proxy": "localhost:5000",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
